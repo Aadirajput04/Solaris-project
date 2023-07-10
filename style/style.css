@@ -1,0 +1,313 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  height: 5.9375rem;
+  text-align: center;
+  padding-left: 5rem;
+  padding-right: 4rem;
+
+
+
+}
+
+
+.contact-button {
+  background-color: #C93828;
+
+  border: none;
+  padding: 11px 21px;
+
+
+  text-decoration: none;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 1.05px;
+  text-transform: uppercase;
+}
+
+.contact-button:hover {
+  background-color: #fff;
+  color: #C93828;
+  border: 1px solid #C93828;
+}
+
+.navbar-pages {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  gap: 1rem;
+}
+
+.navbar-pages li {
+  margin-right: 10px;
+  position: relative;
+  text-align: center;
+
+
+}
+
+.navbar-pages li:hover .dropdown-content {
+  display: block;
+}
+
+.navbar-pages a {
+
+  color: #313D48;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  gap: 3px;
+}
+
+.navbar-pages a:hover {
+
+  border-bottom: 2px solid #C93828;
+
+
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  padding: 5px;
+}
+
+.dropdown-content a {
+  color: #333;
+  padding: 5px 0;
+  display: block;
+  text-decoration: none;
+}
+
+
+
+
+/* ========================================testimonial section starts here=================================== */
+.test-container {
+  background: url(../imgs/Section.png);
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+  display: flex;
+  gap: 2rem;
+
+
+}
+
+.test-container .left-testi {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 45%;
+
+  justify-content: center;
+  padding: 1rem 0rem 1rem 4.5rem;
+  gap: 1.5rem;
+
+}
+
+.test-container .left-testi h1 {
+
+
+  color: #FFF;
+  font-family: 'Lato' sans-serif;
+  font-size: 57px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: -2.85px;
+
+
+
+}
+
+.test-container .left-testi p {
+  color: #B2BDC6;
+  font-family: 'Lato' sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 12px;
+  letter-spacing: 2.3px;
+  text-transform: uppercase;
+}
+
+.test-container .left-testi span {
+  color: #B2BDC6;
+  font-family: 'Lato' sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+
+.test-container .left-testi .view-more {
+  padding: 15px 16px;
+  background-color: #C93828;
+  text-decoration: none;
+  color: #FFF;
+  width: 157px;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0.05px;
+  text-transform: uppercase;
+}
+
+
+
+.test-container .right-testi {
+  flex-basis: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-content: space-around;
+  padding-top: 7rem;
+
+
+}
+
+
+
+
+.test-container .right-testi .white-box {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  background-color: #ffffff;
+  padding: 3rem;
+}
+
+.testi-review {
+  display: flex;
+  flex-direction: column;
+  display: none;
+
+}
+
+.test-container .right-testi .white-box h1 {
+  color: #657078;
+  font-family: 'Lato' sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+}
+
+
+
+
+.test-container .right-testi .white-box h3 {
+  color: #000;
+  font-family: 'Lato' sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: -1px;
+}
+
+.test-container .right-testi .white-box h1 p {
+  color: #657078;
+  font-family: 'Lato' sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+}
+
+
+.test-container .right-testi .white-box .person {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  gap: 1rem;
+
+}
+
+.visible {
+  display: block;
+
+}
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+
+.checkmark {
+  /* position: absolute;
+  top: 0;
+  left: 0; */
+  height: 25px;
+  width: 25px;
+  background-color: #C93828;
+  border-radius: 50%;
+}
+
+
+/* When the radio button is checked, add oorange background */
+.container input:checked~.checkmark {
+  background-color: #C93828;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container input:checked~.checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.container .checkmark:after {
+  /* top: 9px;
+  left: 9px; */
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
