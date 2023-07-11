@@ -10,46 +10,54 @@
     </div>
     <div class="right-testi">
         <div class="white-box">
-
-            <div class="testi-review visible">
-                <h1>I noticed one thing: it's very productive to discuss a project with pople who
-                    have technical background. I forgot how to explain obvious technical things
-                    that often happen with more humanitarian people and just get more done.</h1>
-                <div class="person">
-                    <img src="./imgs/user1.png.png" alt="">
-                    <div class="name">
-                        <h3>Jesiu Petit</h3>
-                        <p>customer</p>
+            <div class="pseudo ">
+                <div class="testi-review visible ">
+                    <h1>I noticed one thing: it's very productive to discuss a project with pople who
+                        have technical background. I forgot how to explain obvious technical things
+                        that often happen with more humanitarian people and just get more done.</h1>
+                    <div class="person">
+                        <img src="./imgs/user1.png.png" alt="">
+                        <div class="name">
+                            <h3>Jesiu Petit</h3>
+                            <p>customer</p>
+                        </div>
                     </div>
+
                 </div>
+                <img src="./imgs/pseudo.svg" alt="" width="30">
             </div>
 
-            <div class="testi-review">
-                <h1>I noticed one thing: it's very productive to discuss a project with pople who
-                    have technical background. I forgot how to explain obvious technical things
-                    that often happen with more humanitarian people and just get more done.</h1>
-                <div class="person">
-                    <img src="./imgs/user1.png.png" alt="">
-                    <div class="name">
-                        <h3>Jesiu Petit</h3>
-                        <p>customer</p>
+            <div class="pseudo">
+                <div class="testi-review">
+                    <h1>I noticed one thing: it's very productive to discuss a project with pople who
+                        have technical background. I forgot how to explain obvious technical things
+                        that often happen with more humanitarian people and just get more done.</h1>
+                    <div class="person">
+                        <img src="./imgs/user1.png.png" alt="">
+                        <div class="name">
+                            <h3>Jesiu Petit</h3>
+                            <p>customer</p>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- <img src="./imgs/pseudo.svg" alt="" width="30"> -->
+            </div>
+            <div class="pseudo">
+                <div class="testi-review">
+                    <h1>I noticed one thing: it's very productive to discuss a project with pople who
+                        have technical background. I forgot how to explain obvious technical things
+                        that often happen with more humanitarian people and just get more done.</h1>
+                    <div class="person">
+                        <img src="./imgs/user1.png.png" alt="">
+                        <div class="name">
+                            <h3>Jesiu Petit</h3>
+                            <p>customer</p>
+                        </div>
                     </div>
                 </div>
-
+                <!-- <img src="./imgs/pseudo.svg" alt="" width="30"> -->
             </div>
-            <div class="testi-review">
-                <h1>I noticed one thing: it's very productive to discuss a project with pople who
-                    have technical background. I forgot how to explain obvious technical things
-                    that often happen with more humanitarian people and just get more done.</h1>
-                <div class="person">
-                    <img src="./imgs/user1.png.png" alt="">
-                    <div class="name">
-                        <h3>Jesiu Petit</h3>
-                        <p>customer</p>
-                    </div>
-                </div>
-            </div>
-
         </div>
         <label class="container">
             <input type="radio" checked="checked" name="radio">
@@ -69,3 +77,4 @@
 
 
 </section>
+
