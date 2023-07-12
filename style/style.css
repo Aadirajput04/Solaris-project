@@ -1035,7 +1035,7 @@ footer .about-info p,
 
 
 .main-static .left-state {
-  flex-basis: 70%;
+  flex-basis: 55%;
   display: flex;
   gap: 2rem;
   padding-top: 3rem;
@@ -1087,6 +1087,7 @@ footer .about-info p,
 
   padding-top: 3rem;
   padding-bottom: 3rem;
+  gap: 1rem;
 
 }
 
@@ -1095,5 +1096,45 @@ footer .about-info p,
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+
+}
+
+
+
+.right-states {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-basis: 45%;
+  overflow: hidden;
+  /* padding-right: 7rem; */
+  gap: 2rem;
+
+}
+
+.right-states h2 {
+  color: #131313;
+  font-family: ' Rajdhani' 'sans-serif';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  letter-spacing: 0.5px;
+}
+
+.right-states .view-more {
+  padding: 15px 16px;
+  background-color: #C93828;
+  text-decoration: none;
+  color: #FFF;
+  width: 157px;
+  
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0.05px;
+  text-transform: uppercase;
 }

@@ -27,8 +27,8 @@
                 </div>
             </div>
         </div>
-        <div class="right-states">
-            <h2>Noteworthy ststics spanning 41 years of experience in commercial real estate projects</h2>
+        <div class="right-states ">
+            <h2>Noteworthy ststics <br> spanning 41 years <br> of experience in commercial <br> real estate projects</h2>
             <a class="view-more" href="#">view more</a>
         </div>
     </div>
