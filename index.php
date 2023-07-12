@@ -21,6 +21,9 @@
 
 
 
+<?php
+    include "statestic.php";
+   ?>
 
 
 <?php
