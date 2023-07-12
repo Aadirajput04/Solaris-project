@@ -19,6 +19,17 @@
    ?>
 
 
+<div class="containers">
+    <div class="circles">
+      <div class="circle" id="circle1"></div>
+      <div class="circle" id="circle2"></div>
+      <div class="circle" id="circle3"></div>
+      <div class="circle" id="circle4"></div>
+    </div>
+  </div>
+
+
+
 
 
 <?php
@@ -34,7 +45,25 @@
 <?php
     include "footer.php";
    ?>
+<script>
+    const containers = document.querySelector('.containers');
 
+window.addEventListener('load', () => {
+  containers.classList.add('default');
+});
+
+const circles = document.querySelectorAll('.circle');
+
+circles.forEach(circle => {
+  circle.addEventListener('click', () => {
+    const backgroundImage = window.getComputedStyle(circle).getPropertyValue('background-image');
+    containers.style.backgroundImage = backgroundImage;
+    containers.classList.remove('default');
+  });
+});
+
+
+</script>
 <script src="script.js"></script>
 </body>
 </html>
