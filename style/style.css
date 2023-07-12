@@ -191,11 +191,12 @@
 
 
 .test-container {
+  padding: 2rem;
   background: url(../imgs/Section.png);
   background-repeat: no-repeat;
   width: 100%;
   background-size: cover;
-  height: 90vh;
+  /* height: 90vh; */
   object-fit: cover;
   display: flex;
   gap: 2rem;
@@ -426,8 +427,8 @@
 
 .checkbox-input input {
   opacity: 0;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   position: absolute;
   z-index: 1;
 
@@ -435,8 +436,8 @@
 
 .checkbox-input span {
   background-color: #fff;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   border-radius: 50%;
   cursor: pointer;
 
@@ -456,14 +457,14 @@
 /* ================================================enquiry form section starts  here======================== */
 
 .inquiry-sec {
-  height: 100vh;
+  /* height: 100vh; */
   width: 100%;
   display: flex;
   flex-direction: row;
   background: url(../imgs/enquiry-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
-  width: 100%;
+ padding-bottom: 3rem;
 
 }
 
@@ -1128,7 +1129,7 @@ footer .about-info p,
   text-decoration: none;
   color: #FFF;
   width: 157px;
-  
+
   text-align: center;
   font-family: 'Lato', sans-serif;
   font-size: 17px;
@@ -1137,4 +1138,139 @@ footer .about-info p,
   line-height: 20px;
   letter-spacing: 0.05px;
   text-transform: uppercase;
+
+
+}
+
+
+
+
+/* ===========================statistic section starts here=========================== */
+
+
+/* ==============================gallery css starts hrre================================ */
+
+
+.main-gallery {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 3rem;
+}
+
+
+
+/* ===============================================================gallery css ebds here++++++++++++ */
+
+/* ================================our projects section  starts here================== */
+
+.proj-main h1 {
+  padding: 3rem;
+  color: #000;
+  text-align: center;
+  font-family: ' Barlow';
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.05px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+
+/* 
+#buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: center;
+}
+
+
+.button-value {
+  color: #7F7F7F;
+  font-family: 'Barlow';
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140.5%;
+  letter-spacing: 0.05px;
+  text-transform: uppercase;
+  border: none;
+  background-color: transparent;
+}
+
+.active {
+  color: #C93828;
+
+}
+
+#projects {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 10px;
+  padding: 10px 0;
+}
+.hide{
+  display: none;
+}
+
+.card {
+  max-width: 100%;
+}
+.proj-main img{
+  max-width: 100%;
+  object-fit: contain;
+} */
+
+.filter-buttons {
+  display: flex;
+  padding: 2rem;
+  flex-direction: row;
+  justify-content: center;
+  gap: 2rem;
+}
+
+
+.filter-buttons .active {
+  color: #C93828;
+
+  border-bottom: 2px solid #C93828;
+}
+
+.filter-buttons button {
+  background-color: transparent;
+  border: none;
+  color: #7F7F7F;
+  font-family: 'Barlow';
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140.5%;
+  letter-spacing: 0.05px;
+  text-transform: uppercase;
+
+}
+
+
+.project-item {
+  display: none;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.project-item.show {
+  display: block;
+}
+
+.project-gallery {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
 }

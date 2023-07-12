@@ -30,7 +30,7 @@
         </li>
         <li><a href="./videos.php">Videos</a></li>
         <li><a href="./gallery.php">Gallery</a></li>
-        <li><a href="./contact-us.php">About Us</a></li>
+        <li><a href="./about-us.php">About Us</a></li>
        
     </ul>
 

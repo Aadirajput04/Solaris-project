@@ -34,7 +34,9 @@
 
 
 
-
+<section class="main-gallery">
+    <img src="./imgs/gallery-img.png" alt="">
+</section>
 
 
 

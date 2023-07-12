@@ -13,11 +13,30 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/5f77a54189.js" crossorigin="anonymous"></script>
-    <title>contact us</title>
+    <title>About us</title>
 </head>
 
 <body>
+<?php
+    include "header.php";
+   ?>
 
+
+
+
+<?php
+    include "statestic.php";
+   ?>
+
+
+<?php
+    include "testimonial.php";
+   ?>
+
+
+<?php
+    include "footer.php";
+   ?>
 </body>
 
 </html>
