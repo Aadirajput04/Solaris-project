@@ -40,25 +40,274 @@
 
         <div id="videoContainer">
             <!-- Recent videos -->
-            <div id="recentVideos">
-                <!-- Add your recent videos here -->
-                <div class="video">
-                       <div class="vid"><iframe width="560" height="315" src="https://www.youtube.com/embed/oDjW4XzDct8"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen></iframe>
-                        </div>
-                </div>
-                <div class="video">Recent Video 2</div>
-                <div class="video">Recent Video 3</div>
-            </div>
+            <div id="recentVideos" class="video-grid">
 
+                <div class="vid">
+                    <!-- Add your recent videos here -->
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- Featured videos -->
-            <div id="featuredVideos">
+            <div id="featuredVideos" class="video-grid">
                 <!-- Add your featured videos here -->
-                <div class="video">Featured Video 1</div>
-                <div class="video">Featured Video 2</div>
-                <div class="video">Featured Video 3</div>
+
+
+                <div class="vid">
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video">
+                        <div class="news-vid"><iframe width="560" height="315"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Trust</h4>
+                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
+                                    the trust
+                                    of cus.....</p>
+                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
