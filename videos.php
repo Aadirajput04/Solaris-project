@@ -17,19 +17,54 @@
 </head>
 
 <body>
-<?php
+    <?php
     include "header.php";
    ?>
 
 
 
-<section class="head-main">
-    <div class="second-main">
-       
-        <h1>videos</h1>
-    </div>
-  
-</section>
+    <section class="head-main">
+        <div class="second-main">
+
+            <h1>videos</h1>
+        </div>
+
+    </section>
+
+    <section class="all-videos">
+
+        <div class="video-filter">
+            <button id="recentBtn" class="active">Recent Videos</button>
+            <button id="featuredBtn">Featured Videos</button>
+        </div>
+
+        <div id="videoContainer">
+            <!-- Recent videos -->
+            <div id="recentVideos">
+                <!-- Add your recent videos here -->
+                <div class="video">
+                       <div class="vid"><iframe width="560" height="315" src="https://www.youtube.com/embed/oDjW4XzDct8"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe>
+                        </div>
+                </div>
+                <div class="video">Recent Video 2</div>
+                <div class="video">Recent Video 3</div>
+            </div>
+
+            <!-- Featured videos -->
+            <div id="featuredVideos">
+                <!-- Add your featured videos here -->
+                <div class="video">Featured Video 1</div>
+                <div class="video">Featured Video 2</div>
+                <div class="video">Featured Video 3</div>
+            </div>
+        </div>
+
+
+
+    </section>
 
 
 
@@ -43,16 +78,39 @@
 
 
 
-
-
-   <?php
+    <?php
    include "testimonial.php";
   ?>
 
 
-<?php
+    <?php
    include "footer.php";
   ?>
+
+
+    <script>
+        window.addEventListener("load", function () {
+            document.getElementById("recentVideos").style.display = "block";
+            document.getElementById("featuredVideos").style.display = "none";
+            document.getElementById("recentBtn").classList.add("active");
+        });
+
+        document.getElementById("recentBtn").addEventListener("click", function () {
+            document.getElementById("recentVideos").style.display = "block";
+            document.getElementById("featuredVideos").style.display = "none";
+            this.classList.add("active");
+            document.getElementById("featuredBtn").classList.remove("active");
+        });
+
+        document.getElementById("featuredBtn").addEventListener("click", function () {
+            document.getElementById("recentVideos").style.display = "none";
+            document.getElementById("featuredVideos").style.display = "block";
+            this.classList.add("active");
+            document.getElementById("recentBtn").classList.remove("active");
+        });
+
+
+    </script>
 </body>
 
 </html>

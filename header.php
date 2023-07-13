@@ -7,17 +7,19 @@
         <li>
             <a href="./projects.php">PROJECTS <img src="./imgs/arroy.svg" alt="" width="16"></a>
             <div class="dropdown-content">
-                <a href="#">Service 1</a>
-                <a href="#">Service 2</a>
-                <a href="#">Service 3</a>
+                <a href="./projects.php">Upcoming </a>
+                <a href="./projects.php">Ongoing </a>
+                <a href="./projects.php">Completed </a>
             </div>
         </li>
         <li>
             <a href="./values.php">Our Values <img src="./imgs/arroy.svg" alt="" width="16" ></a>
             <div class="dropdown-content">
-                <a href="#">Service 1</a>
-                <a href="#">Service 2</a>
-                <a href="#">Service 3</a>
+                <a href="./values.php">Innovation</a>
+                <a href="./values.php">Quality</a>
+                <a href="./values.php">Trust</a>
+                <a href="./values.php">Commitment</a>
+                <a href="./values.php">Excellence</a>
             </div>
         </li>
         <li>
