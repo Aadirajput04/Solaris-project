@@ -51,11 +51,11 @@
                 <h4>Popular Search</h4>
             </div>
             <ul class="pages-links-footer">
-                <li class="list-style"> <a href="#"> home</a></li>
-                <li> <a href="#"> Project</a></li>
-                <li> <a href="#"> Our Values</a></li>
-                <li> <a href="#"> Videos</a></li>
-                <li> <a href="#"> Gallery</a></li>
+                <li class="list-style"> <a href="./index.php"> home</a></li>
+                <li> <a href="./projects.php"> Project</a></li>
+                <li> <a href="./values.php"> Our Values</a></li>
+                <li> <a href="./videos.php"> Videos</a></li>
+                <li> <a href="./gallery.php"> Gallery</a></li>
 
             </ul>
             <div class="social-media">

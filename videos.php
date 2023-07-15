@@ -45,119 +45,109 @@
                 <div class="vid">
                     <!-- Add your recent videos here -->
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Bay View, Piplod</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Solaris Group</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,
+                                    each real-estate space has been envisioned to serve you, and your needs, with the
+                                    most luxurious offering that will stand the test of time</p>
+                                <div class="read-arroy"><a href="#">View video<img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Solaris Group</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Bay View, Piplod</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="video">
+                        <div class="news-vid"><iframe width="510" height="290"
+                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
+                            <div class="vid-text">
+                                <h4>Bay View, Piplod</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
-                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                            <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
-                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                            <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Solaris Group</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
@@ -172,141 +162,115 @@
 
                 <div class="vid">
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Bay View, Piplod</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Solaris Group</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Bay View, Piplod</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video<img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
                                 <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <h4>Solaris Group</h4>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
+                        <div class="news-vid"><iframe width="510" height="290"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
                             <div class="vid-text">
                                 <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+                                <p>Each project is an amalgamation of acumen, vision, experience, and the finest
+                                    craftsmanship. From Retail Destinations, Offices, Trade Centers (Markets), etc.,each
+                                    real-estate space has been envisioned to serve you, and your needs, with the most
+                                    luxurious offering that will stand the test of time...</p>
+                                <div class="read-arroy"><a href="#">View video <img src="./imgs/Frame.svg" alt=""></a>
 
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
-                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                            <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="video">
-                        <div class="news-vid"><iframe width="560" height="315"
-                                src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen></iframe>
-                            <div class="vid-text">
-                                <h4>Trust</h4>
-                                <p>With cumulative experience of over 41 years in the field, the promoters have garnered
-                                    the trust
-                                    of cus.....</p>
-                                <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>

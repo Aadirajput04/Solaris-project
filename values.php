@@ -34,16 +34,16 @@
     <section class="all-filter">
         <div class="buttons-1">
 
-            <button class="filter-button actives" data-filter="all">All</button>
-            <button class="filter-button" data-filter="innovation">Innovation</button>
-            <button class="filter-button" data-filter="quality">Quality</button>
-            <button class="filter-button" data-filter="trust">Trust</button>
-            <button class="filter-button" data-filter="commitment">Commitment</button>
-            <button class="filter-button" data-filter="excellence">Excellence</button>
+            <button class="filter-button actives" id="all" data-filter="all">All</button>
+            <button class="filter-button" id="innovation" data-filter="innovation">Innovation</button>
+            <button class="filter-button" id="quality" data-filter="quality">Quality</button>
+            <button class="filter-button" id="trust" data-filter="trust">Trust</button>
+            <button class="filter-button" id="commitment" data-filter="commitment">Commitment</button>
+            <button class="filter-button" id="excellence" data-filter="excellence">Excellence</button>
         </div>
 
         <div class="all-value-boxes">
-            <div class="product-box" data-tags="innovation">
+            <div class="product-box" id="innovation" data-tags="innovation">
                 <div class="item-1 w">
                     <div class="item-img"><img src="./imgs/value-item-1.png" alt=""></div>
 
@@ -56,7 +56,7 @@
                     </div>
                 </div>
             </div>
-            <div class="product-box" data-tags="quality">
+            <div class="product-box" id="quality" data-tags="quality">
                 <div class="item-2 w">
                     <div class="item-img"><img src="./imgs/value-item-2.png" alt=""></div>
 
@@ -68,7 +68,7 @@
                     </div>
                 </div>
             </div>
-            <div class="product-box" data-tags="trust">
+            <div class="product-box" id="trust" data-tags="trust">
                 <div class="item-2 w">
                     <div class="item-img"><img src="./imgs/value-item-2.png" alt=""></div>
 
@@ -80,7 +80,7 @@
                     </div>
                 </div>
             </div>
-            <div class="product-box" data-tags="commitment">
+            <div class="product-box" id="commitment" data-tags="commitment">
                 <div class="item-2 w">
                     <div class="item-img"><img src="./imgs/value-item-2.png" alt=""></div>
 
@@ -88,11 +88,11 @@
                     <p>Leveraging the latest development in real estate. solaris’ projects are the pinnacle of design
                         and innovation.</p>
                     <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
-
+                        
                     </div>
                 </div>
             </div>
-            <div class="product-box" data-tags="excellence">
+            <div class="product-box" id="excellence" data-tags="excellence">
                 <div class="item-2 w">
                     <div class="item-img"><img src="./imgs/value-item-2.png" alt=""></div>
 

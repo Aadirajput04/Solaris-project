@@ -10,6 +10,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="shortcut icon" href="./imgs/footer-logo.png" type="image/x-icon">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/5f77a54189.js" crossorigin="anonymous"></script>
   <title>home-solaris</title>
@@ -72,7 +73,7 @@
         <h4>Innovation</h4>
         <p>Leveraging the latest development in real estate. solaris’ projects are the pinnacle of design and
           innovation.</p>
-        <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+        <div class="read-arroy"><a href="./values.php">Read more <img src="./imgs/Frame.svg" alt=""></a>
 
         </div>
       </div>
@@ -81,7 +82,7 @@
 
         <h4>Quality</h4>
         <p>With an unrelenting focus on socurcing only the finest quality materials. solaris’ spaces are desig....</p>
-        <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+        <div class="read-arroy"><a href="./values.php">Read more <img src="./imgs/Frame.svg" alt=""></a>
 
         </div>
       </div>
@@ -90,7 +91,7 @@
         <h4>Trust</h4>
         <p>With cumulative experience of over 41 years in the field, the promoters have garnered the trust of cus.....
         </p>
-        <div class="read-arroy"><a href="#">Read more <img src="./imgs/Frame.svg" alt=""></a>
+        <div class="read-arroy"><a href="./values.php">Read more <img src="./imgs/Frame.svg" alt=""></a>
 
         </div>
       </div>
@@ -124,10 +125,97 @@
         </div>
       </div>
     </div>
+  </section>
+
+
+  <section class="rooms-section">
+    <div class="sub-box">
+      <div class="text-box heading-box-1">
+
+        <h2>For Those Who Know to choose</h2>
+
+
+      </div>
+      <img src="./imgs/left-home-sec.svg" alt="" class="home-sec-1">
+      <img src="./imgs/right-home-section.svg" alt="" class="home-sec-2">
+
+    </div>
+    <div class="sub-box">
+      <div class="text-box">
+
+        <img src="./imgs/room-seting.png" alt="">
+        <h4>One 1/2 Bedroom</h4>
+        <p>FROM 55 m</p>
+        <button class="download-button">DOWNLOAD PDF</button>
+
+
+      </div>
+      <img src="./imgs/left-home-sec.svg" alt="" class="home-sec-1">
+      <img src="./imgs/right-home-section.svg" alt="" class="home-sec-2">
+
+    </div>
+    <div class="sub-box">
+      <div class="text-box ">
+
+        <img src="./imgs/room-seting.png" alt="">
+        <h4>One 1/2 Bedroom</h4>
+        <p>FROM 55 m</p>
+        <button class="download-button">DOWNLOAD PDF</button>
+
+
+      </div>
+      <img src="./imgs/left-home-sec.svg" alt="" class="home-sec-1">
+      <img src="./imgs/right-home-section.svg" alt="" class="home-sec-2">
+
+    </div>
+    <div class="sub-box">
+      <div class="text-box">
+
+        <img src="./imgs/room-seting.png" alt="">
+        <h4>One 1/2 Bedroom</h4>
+        <p>FROM 55 m</p>
+        <button class="download-button">DOWNLOAD PDF</button>
+
+
+      </div>
+      <img src="./imgs/left-home-sec.svg" alt="" class="home-sec-1">
+      <img src="./imgs/right-home-section.svg" alt="" class="home-sec-2">
+
+    </div>
+    <div class="sub-box">
+      <div class="text-box ">
+
+        <img src="./imgs/room-seting.png" alt="">
+        <h4>One 1/2 Bedroom</h4>
+        <p>FROM 55 m</p>
+        <button class="download-button">DOWNLOAD PDF</button>
+
+
+      </div>
+      <img src="./imgs/left-home-sec.svg" alt="" class="home-sec-1">
+      <img src="./imgs/right-home-section.svg" alt="" class="home-sec-2">
+
+    </div>
+    <div class="sub-box">
+      <div class="text-box">
+
+        <img src="./imgs/room-seting.png" alt="">
+        <h4>One 1/2 Bedroom</h4>
+        <p>FROM 55 m</p>
+        <button class="download-button">DOWNLOAD PDF</button>
+
+
+      </div>
+      <img src="./imgs/left-home-sec.svg" alt="" class="home-sec-1">
+      <img src="./imgs/right-home-section.svg" alt="" class="home-sec-2">
+
+    </div>
+
 
 
 
   </section>
+
 
 
 
