@@ -7,9 +7,9 @@
         <li>
             <a class="nav-items" href="./projects.php">PROJECTS <img src="./imgs/arroy.svg" alt="" width="16"></a>
             <div class="dropdown-content">
-                <a href="./projects.php#upcoming">Upcoming </a>
-                <a href="./projects.php#ongoing">Ongoing </a>
-                <a href="./projects.php#completed">Completed </a>
+                <a id="upcoming" href="./projects.php#upcoming">Upcoming </a>
+                <a id="ongoing" href="./projects.php#ongoing">Ongoing </a>
+                <a  id="Completed "href="./projects.php#completed">Completed </a>
             </div>
         </li>
         <li>
