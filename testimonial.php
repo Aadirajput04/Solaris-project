@@ -1,4 +1,4 @@
-<section class="testi-border">
+<section class="testi-border page-width">
     <section class="test-container">
         <div class="left-testi"><img src="./imgs/dots.png.png" alt="" width="118" height="104">
             <p>what People Say</p>

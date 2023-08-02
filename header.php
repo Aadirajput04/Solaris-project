@@ -1,4 +1,4 @@
-<nav class="navbar">
+<nav class="navbar page-width">
     <a href="./index.php" class="navbar-logo"><img src="./imgs/nav-logo.png" alt="" width="131" height="75"></a>
 
     <ul class="navbar-pages">

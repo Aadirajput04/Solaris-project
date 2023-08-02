@@ -20,7 +20,7 @@
     <?php
     include "header.php";
    ?>
-    <section class="head-main">
+    <section class="head-main page-width">
         <div class="second-main">
 
             <h1>About Us</h1>
@@ -32,7 +32,7 @@
 
 
 
-    <section class="about-us-box">
+    <section class="about-us-box page-width">
         <div class="left-about">
             <img src="./imgs/expo-img.png" alt="">
             <div class="years-box">
@@ -53,7 +53,7 @@
         </div>
     </section>
 
-    <section class="our-promoters">
+    <section class="our-promoters page-width">
         <div class="promo-heading">
 
             <h1>OUR PROMOTERS</h1>
@@ -100,7 +100,7 @@
         </div>
     </section>
 
-    <section class="history-box">
+    <section class="history-box page-width">
 
 
         <div class="first-box">

@@ -1,4 +1,4 @@
-<section class="main-static">
+<section class="main-static page-width">
 
     <div class="state-details">
         <div class="left-state">

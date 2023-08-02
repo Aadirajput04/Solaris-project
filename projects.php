@@ -23,7 +23,7 @@
 
 
 
-  <section class="head-main">
+  <section class="head-main page-width">
     <div class="second-main">
 
       <h1>projects</h1>
@@ -31,7 +31,7 @@
 
   </section>
 
-  <div class="proj-main">
+  <div class="proj-main page-width">
     <h1>explore recent projects</h1>
 
     <div class="filter-buttons">

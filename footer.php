@@ -1,4 +1,4 @@
-<section class="inquiry-sec">
+<section class="inquiry-sec page-width">
     <div class="left-enquiry">
 
         <div class="contact-right wow fadeInRight">
@@ -25,7 +25,7 @@
     </div>
 
 </section>
-<section class="middle-box">
+<section class="middle-box page-width">
     <div class="main-subscribe-1">
         <div class="subscribe-box">
 
@@ -43,7 +43,7 @@
     </div>
 </section>
 
-<footer>
+<footer class="page-width">
     <div class="detail">
         <div class="left-footer">
             <div class="logo"><img src="./imgs/footer-logo.png" alt="logo"></div>

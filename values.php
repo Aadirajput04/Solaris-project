@@ -24,14 +24,14 @@
     </div>
 
 
-    <section class="head-main">
+    <section class="head-main page-width">
         <div class="second-main">
 
             <h1>values</h1>
         </div>
 
     </section>
-    <section class="all-filter">
+    <section class="all-filter page-width">
         <div class="buttons-1">
 
             <button class="filter-button actives" id="all" data-filter="all">All</button>

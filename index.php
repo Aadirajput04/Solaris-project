@@ -21,7 +21,7 @@
     include "header.php";
    ?>
 
-  <div class="main-home">
+  <div class="main-home page-width">
     <div class="containers">
       <div class="left-headings">
         <h1>Solaris Royce</h1>
@@ -60,7 +60,7 @@
 
 
 
-  <section class="our-value-sec">
+  <section class="our-value-sec page-width">
     <div class="value-head">
       <h1>Our Values</h1>
       <p>Built on 5 key pillars, our values guide us day-to-day, to ensure excellence</p>
@@ -100,7 +100,7 @@
 
 
 
-  <section class="three-home-boxes">
+  <section class="three-home-boxes page-width">
     <div class="boxes">
       <div class="boxes-1 bg-white">
         <img src="./imgs/mission.png" alt="">
@@ -128,7 +128,7 @@
   </section>
 
 
-  <section class="rooms-section">
+  <section class="rooms-section page-width">
     <div class="sub-box">
       <div class="text-box heading-box-1">
 

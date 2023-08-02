@@ -24,7 +24,7 @@
 
 
 
-<section class="head-main">
+<section class="head-main page-width">
     <div class="second-main">
        
         <h1>contact-us</h1>

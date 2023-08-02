@@ -23,7 +23,7 @@
 
 
 
-    <section class="head-main">
+    <section class="head-main page-width">
         <div class="second-main">
 
             <h1>videos</h1>
@@ -31,7 +31,7 @@
 
     </section>
 
-    <section class="all-videos">
+    <section class="all-videos page-width">
 
         <div class="video-filter">
             <button id="recentBtn" class="active">Recent Videos</button>

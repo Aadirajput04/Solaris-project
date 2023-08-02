@@ -24,7 +24,7 @@
 
 
 
-<section class="head-main">
+<section class="head-main page-width">
     <div class="second-main">
        
         <h1>projects</h1>
@@ -34,7 +34,7 @@
 
 
 
-<section class="main-gallery">
+<section class="main-gallery page-width">
     <img src="./imgs/gallery-img.png" alt="">
 </section>
 
