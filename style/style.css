@@ -263,7 +263,7 @@
 
 
 .test-container {
-  padding: 2rem;
+  padding: 3em;
   background: url(../imgs/Section.png);
   background-repeat: no-repeat;
   width: 100%;
@@ -329,7 +329,7 @@
   text-decoration: none;
   color: #FFF;
   width: 157px;
-  color: #FFF;
+
   text-align: center;
   font-family: 'Barlow', sans-serif;
   font-size: 17px;
@@ -723,10 +723,6 @@
   transition: all .7s;
 }
 
-.button:hover {
-  color: #C93828;
-  border: 2px solid #CDBDB1;
-}
 
 
 .button:hover:before {
@@ -983,7 +979,7 @@ footer .about-info p,
   display: flex;
   flex-direction: row;
   width: 100%;
-  gap: 30rem;
+  gap: 35rem;
   border-top: 1px solid rgba(255, 255, 255, 0.07);
   padding-top: 1.5rem;
 }
@@ -991,7 +987,7 @@ footer .about-info p,
 .contact-info {
   display: flex;
   flex-direction: row;
-  gap: 2rem;
+  gap: 2.5rem;
 
 }
 
@@ -1007,7 +1003,7 @@ footer .about-info p,
 
 .num p {
   color: #FFF;
-  font-family: 'Rajdhani' sans-serif;
+  font-family: 'Rajdhani', sans-serif;
   font-size: 15px;
   font-style: normal;
   font-weight: 400;
@@ -1063,7 +1059,7 @@ i.fa-solid.fa-at {
 .head-main .second-main h1 {
   color: #FFF;
   text-align: center;
-  font-family: 'Barlow' sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-size: 50px;
   font-style: normal;
   font-weight: 700;
@@ -1459,7 +1455,7 @@ i.fa-solid.fa-at {
   color: #FFF;
   border: none;
 
-  font-family: 'Rajdhani' sans-serif;
+  font-family: 'Rajdhani', sans-serif;
   font-size: 85px;
   font-style: normal;
   font-weight: 700;
@@ -1469,7 +1465,7 @@ i.fa-solid.fa-at {
 .left-headings h4 {
   color: #FFF;
   text-align: center;
-  font-family: 'Rajdhani' sans-serif;
+  font-family: 'Rajdhani', sans-serif;
   font-size: 45px;
   font-style: normal;
   font-weight: 600;
@@ -1543,7 +1539,7 @@ i.fa-solid.fa-at {
   /* height: 100vh; */
   width: 100%;
   display: flex;
-  padding-top: 18rem;
+  padding-top: 16rem;
   padding-bottom: 5rem;
   flex-direction: column;
   justify-content: center;
