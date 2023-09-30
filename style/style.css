@@ -13,8 +13,8 @@
 
 
 
-.page-width{
-  max-width: 1920px;
+.page-width {
+  max-width: 1550px;
   margin: auto;
 }
 
@@ -25,8 +25,8 @@
   background-color: #fff;
   height: 5.9375rem;
   text-align: center;
-  padding-left: 5rem;
-  padding-right: 4rem;
+  padding-left: 100px;
+  padding-right: 100px;
 
 
 
@@ -37,7 +37,7 @@
   background-color: #C93828;
 
   border: none;
-  padding: 11px 21px;
+  padding: 15px 36px;
 
 
   text-decoration: none;
@@ -79,7 +79,7 @@
 
 .navbar-pages li a,
 .navbar-pages li a.active {
- 
+
   background-image: linear-gradient(to right,
       #313D48,
       #313D48 50%,
@@ -152,7 +152,8 @@
 
 .contact-button:hover {
   color: #C93828;
-  border: 2px solid #CDBDB1;
+  border: 2px solid #D9D9D9;
+
 }
 
 
@@ -257,13 +258,15 @@
 /* ========================================testimonial section starts here=================================== */
 
 .testi-border {
-  padding-top: 5vh;
-  padding-bottom: 5vh;
+
+  margin-bottom: 70px;
 }
 
-
 .test-container {
-  padding: 3em;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-right: 100px;
+  padding-left: 100px;
   background: url(../imgs/Section.png);
   background-repeat: no-repeat;
   width: 100%;
@@ -271,20 +274,16 @@
   /* height: 90vh; */
   object-fit: cover;
   display: flex;
-  gap: 2rem;
-
-
+  gap: 44px;
 }
 
 .test-container .left-testi {
   display: flex;
   flex-direction: column;
   flex-basis: 45%;
-
   justify-content: center;
-  padding: 1rem 0rem 1rem 4.5rem;
+  padding: 1rem 0rem 1rem 0.5rem;
   gap: 1.5rem;
-
 }
 
 .test-container .left-testi h1 {
@@ -376,7 +375,8 @@
 
 .test-container .left-testi .view-more:hover {
   color: #C93828;
-  border: 2px solid #CDBDB1;
+  border: 2px solid #D9D9D9;
+
 }
 
 
@@ -418,7 +418,7 @@
   flex-direction: row;
   gap: 2rem;
 
-  padding: 3rem;
+  padding: 0;
 }
 
 /* 
@@ -547,7 +547,8 @@
   /* flex-wrap: wrap; */
   align-content: space-around;
   justify-content: center;
-  align-items: end;
+  align-items: start;
+  margin-left: 100px;
 }
 
 .contact-right.wow.fadeInRight {
@@ -588,7 +589,8 @@
   padding: 0 1rem;
   background-color: #FFF;
 
-  border: 2px solid #CDBDB1;
+  border: 2px solid #D9D9D9;
+
 
   color: black;
   outline: none;
@@ -688,7 +690,8 @@
 
 .hover:hover {
   color: #C93828;
-  border: 2px solid #CDBDB1;
+  border: 2px solid #D9D9D9;
+
 }
 
 
@@ -705,7 +708,8 @@
 
 .button:hover {
   color: #C93828;
-  border: 2px solid #CDBDB1;
+  border: 2px solid #D9D9D9;
+
 }
 
 
@@ -1079,6 +1083,7 @@ i.fa-solid.fa-at {
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
+  margin-bottom: 70px;
   /* height: 95vh; */
 }
 
@@ -1120,13 +1125,15 @@ i.fa-solid.fa-at {
 .main-static .state-details {
   display: flex;
   flex-direction: row;
+  padding-bottom: 70px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
-
 
 .main-static .left-state {
   flex-basis: 55%;
   display: flex;
-  gap: 2rem;
+  gap: 20px;
   padding-top: 3rem;
   justify-content: center;
   flex-direction: column;
@@ -1137,13 +1144,13 @@ i.fa-solid.fa-at {
 .main-static .first-row-states {
   display: flex;
   flex-direction: row;
-  gap: 2rem;
+  gap: 20px;
 }
 
 .main-static .second-row-states {
   display: flex;
   flex-direction: row;
-  gap: 2rem;
+  gap: 20px;
 }
 
 .main-static .first-row-first {
@@ -1197,7 +1204,7 @@ i.fa-solid.fa-at {
   flex-basis: 45%;
   overflow: hidden;
   /* padding-right: 7rem; */
-  gap: 2rem;
+  gap: 40px;
 
 }
 
@@ -1266,7 +1273,13 @@ i.fa-solid.fa-at {
   text-transform: uppercase;
 }
 
-
+.proj-main {
+  margin-bottom: 70px;
+  DISPLAY: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 /* 
 #buttons {
@@ -1315,10 +1328,13 @@ i.fa-solid.fa-at {
 
 .filter-buttons {
   display: flex;
-  padding: 2rem;
+  padding: 20px;
+
   flex-direction: row;
   justify-content: center;
   gap: 2rem;
+  background: #FFF;
+  box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.06);
 }
 
 
@@ -1345,10 +1361,10 @@ i.fa-solid.fa-at {
 
 
 .project-item {
-  display: none;
-  display: flex;
-  flex-direction: row;
-  gap: 1rem;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
 
 }
 
@@ -1359,7 +1375,9 @@ i.fa-solid.fa-at {
 .project-gallery {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 40px;
+  padding-left: 100px;
+  padding-right: 100px;
 
   align-items: center;
   justify-content: center;
@@ -1367,10 +1385,152 @@ i.fa-solid.fa-at {
 
 }
 
-.project-gallery img {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
+.img-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 35px;
 }
+
+.project-gallery img {
+  padding: 10px;
+  background: #FFF;
+  box-shadow: 0px 0px 50px 0px rgba(8, 14, 28, 0.06);
+}
+
+
+
+
+
+
+
+
+
+
+
+.realtor-boxes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 25px;
+}
+
+.realtor-box {
+  display: flex;
+  background-color: #FFF;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #E8E8E8;
+  padding: 28px 47px;
+  text-align: center;
+
+}
+
+.bg-dot {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+
+.realtor-container {
+  display: flex;
+  background-color: #F3F7FA;
+  ;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  justify-content: center;
+  margin-bottom: 70px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  gap: 45px;
+
+}
+
+.realtor-container h2 {
+  color: #333;
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+
+
+.realtor-heading {
+  text-align: center;
+}
+
+.realtor-box h4 {
+  color: #000;
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 30px;
+}
+
+.realtor-heading p {
+  color: #7F7F7F;
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 10px;
+}
+
+.realtor-box a {
+  color: #FFF;
+  text-align: center;
+  font-family: 'Barlow', sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  /* 117.647% */
+  letter-spacing: 0.05px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 15px 35px;
+  text-decoration: none;
+  gap: 10px;
+  background-color: #C93828;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* ====================================home page css starts here====================== */
@@ -1384,7 +1544,7 @@ i.fa-solid.fa-at {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 3rem;
+  padding: 100px;
 }
 
 .containers.default {
@@ -1408,11 +1568,13 @@ i.fa-solid.fa-at {
 }
 
 .circle {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  margin: 0 10px;
+  width: 100px;
+  height: 70px;
+  box-shadow: 8px 8px 24px 0px rgba(0, 0, 0, 0.43);
+  /* border-radius: 50%; */
+
   cursor: pointer;
+  border: 2px solid #fff;
 }
 
 #circle1 {
@@ -1444,8 +1606,8 @@ i.fa-solid.fa-at {
 .left-headings {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
-  padding-left: 2rem;
+
+
 
 
 
@@ -1470,11 +1632,12 @@ i.fa-solid.fa-at {
   font-style: normal;
   font-weight: 600;
   line-height: 117%;
+  margin-bottom: 40px;
 
 }
 
 .left-headings a {
-  width: 157px;
+  width: 178px;
 }
 
 .center-boxes {
@@ -1483,7 +1646,7 @@ i.fa-solid.fa-at {
   justify-content: flex-end;
   gap: 2rem;
   position: absolute;
-  right: 4rem;
+  right: 100px;
   translate: 10px -95px;
 
 }
@@ -1534,18 +1697,19 @@ i.fa-solid.fa-at {
   translate: 0px -52px;
 }
 
-
 .our-value-sec {
   /* height: 100vh; */
   width: 100%;
   display: flex;
   padding-top: 16rem;
-  padding-bottom: 5rem;
+  margin-bottom: 70px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
   gap: 3.5rem;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .our-value-sec .value-head h1 {
@@ -1575,17 +1739,20 @@ i.fa-solid.fa-at {
 .value-items {
   display: flex;
   flex-direction: row;
-  gap: 4rem;
+  gap: 26px;
 
   text-align: left;
 
 }
 
 .w {
-  width: 356px;
+  width: 396px;
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  padding: 20px;
+  background: #FFF;
+  box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.08);
 }
 
 .value-items h4 {
@@ -1605,6 +1772,11 @@ i.fa-solid.fa-at {
   font-weight: 500;
   line-height: 35px;
 
+}
+
+.item-img {
+  display: grid;
+  place-items: center;
 }
 
 .read-arroy {
@@ -1638,7 +1810,7 @@ i.fa-solid.fa-at {
   background-size: cover;
   width: 100%;
   padding: 5.5rem;
-
+  margin-bottom: 70px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1699,11 +1871,15 @@ i.fa-solid.fa-at {
 /* -============================================values page css starts here-----------------=============== */
 
 .all-filter {
+  margin-top: 70px;
+  margin-bottom: 70px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 2rem;
+  padding-left: 100px;
+  padding-right: 100px;
 
 }
 
@@ -1720,7 +1896,9 @@ i.fa-solid.fa-at {
 .all-filter .buttons-1 {
   display: flex;
   flex-direction: row;
-  padding: 3rem;
+  padding: 20px;
+  background: #FFF;
+  box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.06);
   gap: 2rem;
 
 }
@@ -1769,7 +1947,7 @@ i.fa-solid.fa-at {
 .all-filter .all-value-boxes {
   display: flex;
   flex-direction: row;
-  gap: 4rem;
+ 
   justify-content: center;
   flex-wrap: wrap;
 
@@ -1786,14 +1964,14 @@ i.fa-solid.fa-at {
   gap: 2rem;
   padding: 4rem;
 }
-
 .video-filter {
   display: flex;
   gap: 2rem;
   flex-direction: row;
+  padding: 20px;
+  background: #FFF;
+  box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.06);
 }
-
-
 
 .video-filter button.active {
   color: #C93828;
@@ -1835,11 +2013,9 @@ i.fa-solid.fa-at {
 #recentVideos {
   display: block;
 }
-
 .video {
-
   padding: 20px;
-  width: 567px;
+  width: 607px;
   overflow: hidden;
 }
 
@@ -1850,7 +2026,11 @@ i.fa-solid.fa-at {
   flex-direction: column;
   gap: 1rem;
 }
-
+.news-vid {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+}
 .vid-text h4 {
   color: #333;
   font-family: 'Rajdhani', sans-serif;
@@ -1880,12 +2060,12 @@ i.fa-solid.fa-at {
 
   width: 100%;
   display: flex;
-  padding-top: 3rem;
+
   padding-bottom: 3rem;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 2rem;
+  gap: 26px;
 
 
 }
@@ -1953,7 +2133,7 @@ i.fa-solid.fa-at {
 
 .sub-box {
   width: 396px;
-  padding: 0.5rem;
+  padding: 20px;
   height: 435px;
   position: relative;
   box-shadow: 0px 0px 80px 0px rgba(0, 0, 0, 0.05);
@@ -2048,7 +2228,8 @@ i.fa-solid.fa-at {
 
 .sub-box .download-button:hover {
   color: #C93828;
-  border: 2px solid #CDBDB1;
+  border: 2px solid #D9D9D9;
+
 }
 
 
@@ -2090,8 +2271,12 @@ i.fa-solid.fa-at {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 2rem;
-  gap: 3.5rem;
+ padding-left: 100px;
+ padding-right: 100px;
+ margin-top: 70px;
+  gap: 92px;
+  margin-bottom: 70px;
+
 
 }
 
@@ -2205,7 +2390,8 @@ i.fa-solid.fa-at {
 
 .right-about .about-more:hover {
   color: #C93828;
-  border: 2px solid #CDBDB1;
+  border: 2px solid #D9D9D9;
+
 }
 
 
@@ -2242,7 +2428,7 @@ i.fa-solid.fa-at {
   width: 310px;
   position: absolute;
   background-color: #fff;
-  right: -22px;
+  right: -44px;
   bottom: 22px;
   padding: 1rem;
 
@@ -2286,8 +2472,10 @@ i.fa-solid.fa-at {
 
 .our-promoters {
   background-color: #F3F7FA;
-  margin-bottom: 1rem;
-  padding: 3rem;
+ padding-bottom: 70px;
+  padding-top: 70px;
+  padding-left: 100px;
+  padding-right: 100px;
   /* height: 100vh; */
 }
 
@@ -2324,7 +2512,6 @@ i.fa-solid.fa-at {
   padding: 1rem;
   background-color: #fff;
 }
-
 .promotors-box h1 {
   color: #000;
   font-family: 'Rajdhani', sans-serif;
@@ -2333,11 +2520,12 @@ i.fa-solid.fa-at {
   font-weight: 700;
   text-align: left;
   line-height: normal;
+  margin-top: 10px;
 }
 
 .promotors-box .promo-text {
   padding-left: 2rem;
-  padding-top: 6rem;
+  padding-top: 7rem;
   padding-bottom: 1rem;
   position: relative;
   display: flex;
@@ -2359,7 +2547,7 @@ i.fa-solid.fa-at {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  gap: 1rem;
+  gap:26px;
 }
 
 .our-promoters .promotors-box .right-promo {
@@ -2393,8 +2581,10 @@ i.fa-solid.fa-at {
 }
 
 .history-box {
-
-  padding: 3.5rem;
+padding-top: 70px;
+padding-bottom: 70px;
+ padding-left: 100px;
+ padding-right: 100px;
   /* height: 100vh; */
   display: flex;
   gap: 10rem;

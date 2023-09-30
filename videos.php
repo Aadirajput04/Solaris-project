@@ -45,7 +45,7 @@
                 <div class="vid">
                     <!-- Add your recent videos here -->
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -63,7 +63,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -81,7 +81,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -99,7 +99,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -118,7 +118,7 @@
                     </div>
 
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -136,7 +136,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -162,7 +162,7 @@
 
                 <div class="vid">
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -180,7 +180,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -198,7 +198,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -216,7 +216,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -234,7 +234,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -252,7 +252,7 @@
                         </div>
                     </div>
                     <div class="video">
-                        <div class="news-vid"><iframe width="510" height="290"
+                        <div class="news-vid"><iframe width="567" height="357"
                                 src="https://www.youtube.com/embed/oDjW4XzDct8" title="YouTube video player"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

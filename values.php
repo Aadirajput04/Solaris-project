@@ -27,7 +27,7 @@
     <section class="head-main page-width">
         <div class="second-main">
 
-            <h1>values</h1>
+            <h1> Our values</h1>
         </div>
 
     </section>

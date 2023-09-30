@@ -46,11 +46,6 @@
 
 
 
-   <?php
-   include "testimonial.php";
-  ?>
-
-
 <?php
    include "footer.php";
   ?>
